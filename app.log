@@ -1,0 +1,65 @@
+2022-07-20 15:03:14,166  INFO [main] BaseClass:42 - *********** Starting TestCases Executions *************
+2022-07-20 15:03:19,072  INFO [main] BaseClass:46 - *********** Launching chrome browser ***********
+2022-07-20 15:03:20,830  INFO [main] BaseClass:65 - Implicit wait applied on the driver for 10 seconds
+2022-07-20 15:03:24,712  INFO [main] BaseClass:68 - *********** Entering application URL ***********
+2022-07-20 15:03:27,454  INFO [main] BaseClass:31 - *********** Starting TestCase **************
+2022-07-20 15:03:27,455  INFO [main] BaseClass:32 - *********** FacebookTitleTest **************
+2022-07-20 15:03:27,467  INFO [main] BaseClass:34 - login page title is ---->Facebook – log in or sign up
+2022-07-20 15:03:27,472  INFO [main] BaseClass:36 - *********** Ending TestCase ****************
+2022-07-20 15:03:31,786  INFO [main] BaseClass:52 - *********** Browser is closed ***************
+2022-07-20 15:03:31,797  INFO [main] BaseClass:42 - *********** Starting TestCases Executions *************
+2022-07-20 15:03:34,340  INFO [main] BaseClass:46 - *********** Launching chrome browser ***********
+2022-07-20 15:03:37,116  INFO [main] BaseClass:65 - Implicit wait applied on the driver for 10 seconds
+2022-07-20 15:03:40,842  INFO [main] BaseClass:68 - *********** Entering application URL ***********
+2022-07-20 15:03:42,864  INFO [main] BaseClass:41 - *********** Starting TestCase ***************
+2022-07-20 15:03:42,865  INFO [main] BaseClass:42 - *********** FacebookTitleTest ***************
+2022-07-20 15:03:48,392  INFO [main] BaseClass:46 - *********** Ending TestCase *****************
+2022-07-20 15:03:52,637  INFO [main] BaseClass:52 - *********** Browser is closed ***************
+2022-07-20 15:03:52,647  INFO [main] BaseClass:42 - *********** Starting TestCases Executions *************
+2022-07-20 15:03:55,393  INFO [main] BaseClass:46 - *********** Launching chrome browser ***********
+2022-07-20 15:03:58,909  INFO [main] BaseClass:65 - Implicit wait applied on the driver for 10 seconds
+2022-07-20 15:04:02,445  INFO [main] BaseClass:68 - *********** Entering application URL ***********
+2022-07-20 15:04:04,487  INFO [main] BaseClass:30 - *********** Starting TestCase **************
+2022-07-20 15:04:04,488  INFO [main] BaseClass:31 - *********** FacebookTitleTest **************
+2022-07-20 15:04:04,499  INFO [main] BaseClass:33 - signup page title is ---->Facebook – log in or sign up
+2022-07-20 15:04:04,499  INFO [main] BaseClass:35 - *********** Ending TestCase ****************
+2022-07-20 15:04:08,722  INFO [main] BaseClass:52 - *********** Browser is closed ***************
+2022-07-20 15:04:08,729  INFO [main] BaseClass:42 - *********** Starting TestCases Executions *************
+2022-07-20 15:04:10,721  INFO [main] BaseClass:46 - *********** Launching chrome browser ***********
+2022-07-20 15:04:13,143  INFO [main] BaseClass:65 - Implicit wait applied on the driver for 10 seconds
+2022-07-20 15:04:15,737  INFO [main] BaseClass:68 - *********** Entering application URL ***********
+2022-07-20 15:04:17,758  INFO [main] BaseClass:40 - *********** Starting TestCase ***************
+2022-07-20 15:04:17,758  INFO [main] BaseClass:41 - *********** FacebookTitleTest ***************
+2022-07-20 15:04:30,251  INFO [main] BaseClass:46 - *********** Ending TestCase *****************
+2022-07-20 15:04:34,452  INFO [main] BaseClass:52 - *********** Browser is closed ***************
+2022-07-20 15:04:34,457  INFO [main] BaseClass:42 - *********** Starting TestCases Executions *************
+2022-07-20 15:04:36,768  INFO [main] BaseClass:46 - *********** Launching chrome browser ***********
+2022-07-20 15:04:39,381  INFO [main] BaseClass:65 - Implicit wait applied on the driver for 10 seconds
+2022-07-20 15:04:42,455  INFO [main] BaseClass:68 - *********** Entering application URL ***********
+2022-07-20 15:04:45,115  INFO [main] BaseClass:40 - *********** Starting TestCase ***************
+2022-07-20 15:04:45,115  INFO [main] BaseClass:41 - *********** FacebookTitleTest ***************
+2022-07-20 15:04:57,019  INFO [main] BaseClass:45 - *********** Ending TestCase *****************
+2022-07-20 15:04:57,813  INFO [main] BaseClass:51 - *********** Browser is closed ***************
+2022-07-20 15:04:57,825  INFO [main] BaseClass:42 - *********** Starting TestCases Executions *************
+2022-07-20 15:05:05,546  INFO [main] BaseClass:46 - *********** Launching chrome browser ***********
+2022-07-20 15:05:10,689  INFO [main] BaseClass:65 - Implicit wait applied on the driver for 10 seconds
+2022-07-20 15:05:18,058  INFO [main] BaseClass:68 - *********** Entering application URL ***********
+2022-07-20 15:05:20,636  INFO [main] BaseClass:30 - *********** Starting TestCase **************
+2022-07-20 15:05:20,636  INFO [main] BaseClass:31 - *********** FacebookTitleTest **************
+2022-07-20 15:05:28,532  INFO [main] BaseClass:33 - login page title is ---->Facebook
+2022-07-20 15:05:28,532  INFO [main] BaseClass:35 - *********** Ending TestCase ****************
+2022-07-20 15:05:28,806  INFO [main] BaseClass:51 - *********** Browser is closed ***************
+2022-07-20 15:05:33,383  INFO [main] BaseClass:42 - *********** Starting TestCases Executions *************
+2022-07-20 15:05:35,161  INFO [main] BaseClass:46 - *********** Launching chrome browser ***********
+2022-07-20 15:05:38,653  INFO [main] BaseClass:65 - Implicit wait applied on the driver for 10 seconds
+2022-07-20 15:05:41,660  INFO [main] BaseClass:68 - *********** Entering application URL ***********
+2022-07-20 15:05:50,728 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-07-20 15:05:50,731 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-07-20 15:05:50,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-07-20 15:05:50,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-07-20 15:05:50,740 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Deepak%20Rana/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-07-20 15:05:51,671 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-07-20 15:05:51,672 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-07-20 15:05:51,672 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-07-20 15:05:51,674 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-07-20 15:05:51,675 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Deepak%20Rana/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

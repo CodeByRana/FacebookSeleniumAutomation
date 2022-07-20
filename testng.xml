@@ -2,13 +2,14 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="FacebookApplication">
 <listeners>
-	<listener class-name="com.extendreportlistener.ExtentReporterNG"></listener>
+	<listener class-name="com.fb.extendreportlistener.ExtentReporterNG"></listener>
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.testcases.HomePageTest"/>
-      <class name="com.testcases.LoginPageTest"/>
-      <class name="com.testcases.SignUpPageTest"/>
+      <class name="com.fb.testcases.LoginPageTest"/>
+      <class name="com.fb.testcases.SignUpPageTest"/>
+      <class name="com.fb.testcases.HomePageTest"/>
+      <class name="com.fb.testcases.LoginPageDataDrivenTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- FacebookApplication -->
